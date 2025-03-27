@@ -8,4 +8,4 @@ This project is for beginners and will teach you how to analyze the music playli
 + Postgre SQL
 + PgAdmin4
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/sunilchoppale/SQL_Music_Store_Analysis/blob/main/MusicDatabaseSchema.png)
+![MusicDatabaseSchema](https://github.com/sunilchoppale/SQL_Music_Store_Analysis/blob/main/MusicDatabaseSchema.png)
